@@ -1,7 +1,8 @@
 # matthew ryan dillon
 
-senior research software engineer in the @caporaso-lab, primarily working on
-@qiime2
+senior research software engineer in the
+[**@caporaso-lab**](https://github.com/caporaso-lab), primarily working on
+[**@qiime2**](https://github.com/qiime2)
 
 ## profiles
 
