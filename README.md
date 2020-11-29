@@ -1,16 +1,19 @@
-### Hi there 👋
+# matthew ryan dillon
 
-<!--
-**thermokarst/thermokarst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+senior research software engineer in the @caporaso-lab, primarily working on
+@qiime2
 
-Here are some ideas to get you started:
+## profiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://github.com/thermokarst
+- https://gitlab.com/thermokarst
+- https://forum.qiime2.org/u/thermokarst
+
+## properties
+
+- https://thermokar.st
+  - https://gpx.thermokar.st
+  - https://planner.thermokar.st
+  - https://zettel.thermokar.st
+- http://www.akdillon.net
+  - http://akindices.akdillon.net
