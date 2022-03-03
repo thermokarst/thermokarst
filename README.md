@@ -4,17 +4,20 @@ senior research software engineer in the
 [**@caporaso-lab**](https://github.com/caporaso-lab), primarily working on
 [**@qiime2**](https://github.com/qiime2)
 
+## [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vSSAGQWRA5yENXD6BwuTDY1EAMEMws4RcxfkW6wa8Y3jddS4d0C3go4-0mJO-94FHi1X_zRg8w-Cplp/pub)
+
 ## profiles
 
 - https://github.com/thermokarst
 - https://gitlab.com/thermokarst
 - https://forum.qiime2.org/u/thermokarst
+- https://thermokarst.itch.io/
 
 ## properties
 
 - https://thermokar.st
+  - gemini://devlog.thermokar.st
   - https://gpx.thermokar.st
-  - https://planner.thermokar.st
   - https://zettel.thermokar.st
 - http://www.akdillon.net
   - http://akindices.akdillon.net
