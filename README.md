@@ -16,8 +16,9 @@ senior research software engineer in the
 ## properties
 
 - https://thermokar.st
-  - gemini://devlog.thermokar.st
+  - gemini://devlog.thermokar.st ([http proxy](https://portal.mozz.us/gemini/devlog.thermokar.st))
   - https://gpx.thermokar.st
   - https://zettel.thermokar.st
 - http://www.akdillon.net
   - http://akindices.akdillon.net
+
